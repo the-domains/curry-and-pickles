@@ -11,6 +11,9 @@ color:
     - '#FBB9BF'
     - '#E376B7'
 layout_spectrum: 0.10963321942836046
+author:
+  name: Nate Lee
+  email: spam@fatpoe.org
 name: Curry and Pickles
 title: 'Nate, Mimi, & Parker'
 description: Life is crazy!
