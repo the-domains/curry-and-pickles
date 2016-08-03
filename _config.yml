@@ -1,4 +1,3 @@
-layout_spectrum: 0.10963321942836046
 typography_spectrum: 0.4973060484044254
 color:
   brandStrength: 0.3346337927505374
@@ -11,5 +10,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+layout_spectrum: 0.10963321942836046
 name: Curry and Pickles
 title: 'Nate, Mimi, & Parker'
+description: Life is crazy!
